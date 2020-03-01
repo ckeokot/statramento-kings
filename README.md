@@ -1,7 +1,7 @@
 ![Statramento Kings Logo](/logo.jpg)
 
 # Statramento Kings
-Statramento Kings is a Discord bot created for NBA 2K League statistics and analysis. This project was created during SacHacks 2020 and won 1st Place for the Sacramento Kings Track.
+Statramento Kings is a Discord bot created for NBA 2K League statistics and analysis. This project was created during [SacHacks 2020](https://sachacks-2020.devpost.com/) and won 1st Place for the Sacramento Kings Track.
 
 # Motivation
 The Sacramento Kings Track for SacHacks 2020 was all about analyzing player and team data from the NBA 2k League. More specifically, the goal was to create a player model that ranks all 126 league players, as well as a team model that ranks all 21 teams. In addition to this, another goal was to look specifically at Kings Guard Gaming and determine what were the team's biggest strengths, weaknesses, and so forth.
