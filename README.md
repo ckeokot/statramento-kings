@@ -28,8 +28,8 @@ The decision to make a bot on Discord came from the idea that a community for th
 * [Google Cloud Platform](https://cloud.google.com/) - Virtual Machine instance
 
 # Authors
-* **Christopher Keokot** - Python Backend, Google Cloud Platform Virtual Machine, discord.py Frontend - [ckeokot](https://github.com/ckeokot)
-* **Kevin Tran** - Java Backend
+* **Christopher Keokot** - [ckeokot](https://github.com/ckeokot) - Python Backend, Google Cloud Platform Virtual Machine, discord.py Frontend
+* **Kevin Tran** - [kevct](https://github.com/kevct) - Java Backend
 * **Zain Ali** - Design
 
 # License
