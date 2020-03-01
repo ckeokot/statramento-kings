@@ -33,4 +33,4 @@ The decision to make a bot on Discord came from the idea that a community for th
 * **Zain Ali** - Design
 
 # License
-This project is licensed under the GNU General Public License v3.0 License - see the [LICENSE.md](https://github.com/ckeokot/statramento-kings/blob/master/LICENSE.md) file for details.
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.md](https://github.com/ckeokot/statramento-kings/blob/master/LICENSE.md) file for details.
