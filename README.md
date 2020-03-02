@@ -30,7 +30,7 @@ The decision to make a bot on Discord came from the idea that a community for th
 # Authors
 * **Christopher Keokot** - [ckeokot](https://github.com/ckeokot) - Python Backend, Google Cloud Platform Virtual Machine, discord.py Frontend
 * **Kevin Tran** - [kevct](https://github.com/kevct) - Java Backend
-* **Zain Ali** - Design
+* **Zain Ali** - [zainalijp](https://github.com/zainalijp) - Design
 
 # License
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.md](https://github.com/ckeokot/statramento-kings/blob/master/LICENSE.md) file for details.
